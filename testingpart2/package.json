@@ -1,0 +1,12 @@
+{
+  "name": "testingpart2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clientsideserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node clientsideserver.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
